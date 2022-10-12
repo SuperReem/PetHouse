@@ -18,5 +18,5 @@ PetHouse is a project requirement for **SWE381** *Web Application Development* c
 - Manage Clinic Services :scissors:
 - Approve/Decline Appointments :spiral_notepad:
 
-###Home Page
-<img width="400" height="400" src="https://user-images.githubusercontent.com/53432438/195353106-cc492d06-613d-406d-9af1-a8bde8c08065.jpg"> 
+### Home Page
+<img height="400" src="https://user-images.githubusercontent.com/53432438/195353106-cc492d06-613d-406d-9af1-a8bde8c08065.jpg"> 
